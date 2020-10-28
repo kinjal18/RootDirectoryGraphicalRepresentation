@@ -1,0 +1,25 @@
+{
+  "name": "project2",
+  "version": "1.0.0",
+  "description": "File Manager",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Kinjal Jethalal",
+  "license": "MIT",
+  "dependencies": {
+    "app": "^0.1.0",
+    "electron": "^4.1.4",
+    "jquery": "^3.4.0",
+    "jsdom": "^14.0.0",
+    "node-dir": "^0.1.17",
+    "os": "^0.1.1",
+    "path": "^0.12.7",
+    "rimraf": "^2.6.3",
+    "vis": "^4.21.0"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.8.1"
+  }
+}
